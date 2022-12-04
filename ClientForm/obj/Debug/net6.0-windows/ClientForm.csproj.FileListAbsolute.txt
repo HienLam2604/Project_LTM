@@ -1,0 +1,79 @@
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.exe
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.runtimeconfig.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.AssemblyReference.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.ClientForm.resources
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.GenerateResource.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfoInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfo.cs
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\refint\ClientForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.genruntimeconfig.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ref\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.exe
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.runtimeconfig.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.AssemblyReference.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.GenerateResource.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfoInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfo.cs
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\refint\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.genruntimeconfig.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ref\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.ClientForm.resources
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.CopyComplete
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ConnectDB.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Entity.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ConnectDB.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.exe
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.deps.json
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.runtimeconfig.json
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ClientForm.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Entity.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Message.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\ConnectDB.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\bin\Debug\net6.0-windows\Message.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.AssemblyReference.cache
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.ClientForm.resources
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.GenerateResource.cache
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfoInputs.cache
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.AssemblyInfo.cs
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.CoreCompileInputs.cache
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\refint\ClientForm.dll
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.pdb
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ClientForm.genruntimeconfig.cache
+D:\Project_LTM_2\Project_LTM\ClientForm\obj\Debug\net6.0-windows\ref\ClientForm.dll

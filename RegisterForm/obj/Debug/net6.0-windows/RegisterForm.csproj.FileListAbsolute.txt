@@ -1,0 +1,91 @@
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.exe
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.GenerateResource.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfoInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfo.cs
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\refint\RegisterForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.genruntimeconfig.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\ref\RegisterForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CopyComplete
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.RegisterForm.resources
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.exe
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.AssemblyReference.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.RegisterForm.resources
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.GenerateResource.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfoInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfo.cs
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CoreCompileInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CopyComplete
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\refint\RegisterForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.genruntimeconfig.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\ref\RegisterForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Entity.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.exe
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Entity.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Message.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Validation.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.AssemblyReference.cache
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.RegisterForm.resources
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.GenerateResource.cache
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfoInputs.cache
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.AssemblyInfo.cs
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CoreCompileInputs.cache
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\refint\RegisterForm.dll
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.pdb
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\RegisterForm.genruntimeconfig.cache
+D:\Project_LTM_2\Project_LTM\RegisterForm\obj\Debug\net6.0-windows\ref\RegisterForm.dll

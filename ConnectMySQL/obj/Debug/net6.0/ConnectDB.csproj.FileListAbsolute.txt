@@ -1,0 +1,45 @@
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.AssemblyReference.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfoInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfo.cs
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\refint\ConnectDB.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ref\ConnectDB.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CopyComplete
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.AssemblyReference.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfoInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfo.cs
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CoreCompileInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CopyComplete
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\refint\ConnectDB.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ref\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.deps.json
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\bin\Debug\net6.0\ConnectDB.pdb
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.dll
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\bin\Debug\net6.0\Entity.pdb
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.AssemblyReference.cache
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfoInputs.cache
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.AssemblyInfo.cs
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CoreCompileInputs.cache
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\refint\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ConnectDB.pdb
+D:\Project_LTM_2\Project_LTM\ConnectMySQL\obj\Debug\net6.0\ref\ConnectDB.dll

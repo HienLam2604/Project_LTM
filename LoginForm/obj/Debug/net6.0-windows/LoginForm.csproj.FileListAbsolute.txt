@@ -1,0 +1,120 @@
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.exe
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.runtimeconfig.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.AssemblyReference.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.GenerateResource.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfoInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfo.cs
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\refint\LoginForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.genruntimeconfig.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\ref\LoginForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.exe
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.LoginForm.resources
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CopyComplete
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.runtimeconfig.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.exe
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.exe
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.exe
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.runtimeconfig.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.AssemblyReference.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.LoginForm.resources
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.GenerateResource.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfoInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfo.cs
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CopyComplete
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\refint\LoginForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.genruntimeconfig.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\obj\Debug\net6.0-windows\ref\LoginForm.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ConnectDB.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Entity.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ConnectDB.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.deps.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.runtimeconfig.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.exe
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.deps.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.runtimeconfig.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.exe
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.exe
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.deps.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.runtimeconfig.json
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\LoginForm.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ConnectDB.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Entity.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ClientForm.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Message.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\RegisterForm.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Validation.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\ConnectDB.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\bin\Debug\net6.0-windows\Entity.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.AssemblyReference.cache
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.LoginForm.resources
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.GenerateResource.cache
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfoInputs.cache
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.AssemblyInfo.cs
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CoreCompileInputs.cache
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\refint\LoginForm.dll
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.pdb
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\LoginForm.genruntimeconfig.cache
+D:\Project_LTM_2\Project_LTM\LoginForm\obj\Debug\net6.0-windows\ref\LoginForm.dll

@@ -1,0 +1,470 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project_LTM_2\\Project_LTM\\LoginForm\\LoginForm.csproj": {}
+  },
+  "projects": {
+    "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\Account\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\ClientForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\ClientForm.csproj",
+        "projectName": "ClientForm",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\ClientForm.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\ConnectDB.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\ConnectDB.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\ConnectDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\ConnectDB.csproj",
+        "projectName": "ConnectDB",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\ConnectDB.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\ConnectMySQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\LoginForm\\LoginForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\LoginForm\\LoginForm.csproj",
+        "projectName": "LoginForm",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\LoginForm\\LoginForm.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\LoginForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\ClientForm.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\ClientForm\\ClientForm.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\RegisterForm.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\RegisterForm.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj",
+        "projectName": "Message",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\Message\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Account\\Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\RegisterForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\RegisterForm.csproj",
+        "projectName": "RegisterForm",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\RegisterForm.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\RegisterForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Message\\Message.csproj"
+              },
+              "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj": {
+                "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj",
+        "projectName": "Validation",
+        "projectPath": "D:\\Project_LTM_2\\Project_LTM\\Validation\\Validation.csproj",
+        "packagesPath": "C:\\Users\\hiena\\.nuget\\packages\\",
+        "outputPath": "D:\\Project_LTM_2\\Project_LTM\\Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hiena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

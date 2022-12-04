@@ -1,0 +1,42 @@
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.AssemblyReference.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfoInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfo.cs
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.CoreCompileInputs.cache
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\bin\Debug\net6.0\Message.deps.json
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\bin\Debug\net6.0\Message.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\bin\Debug\net6.0\Message.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\refint\Message.dll
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\Message.pdb
+C:\Users\PhanTheesHieesu\source\repos\Project_LTM\Message\obj\Debug\net6.0\ref\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\bin\Debug\net6.0\Message.deps.json
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\bin\Debug\net6.0\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\bin\Debug\net6.0\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.AssemblyReference.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfoInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfo.cs
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.CoreCompileInputs.cache
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\refint\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\ref\Message.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\bin\Debug\net6.0\Entity.dll
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\bin\Debug\net6.0\Entity.pdb
+C:\Users\MinhHieu\Documents\Zalo Received Files\Project_LTM\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\Message\bin\Debug\net6.0\Message.deps.json
+D:\Project_LTM_2\Project_LTM\Message\bin\Debug\net6.0\Message.dll
+D:\Project_LTM_2\Project_LTM\Message\bin\Debug\net6.0\Message.pdb
+D:\Project_LTM_2\Project_LTM\Message\bin\Debug\net6.0\Entity.dll
+D:\Project_LTM_2\Project_LTM\Message\bin\Debug\net6.0\Entity.pdb
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.AssemblyReference.cache
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfoInputs.cache
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.AssemblyInfo.cs
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.CoreCompileInputs.cache
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.csproj.CopyComplete
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.dll
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\refint\Message.dll
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\Message.pdb
+D:\Project_LTM_2\Project_LTM\Message\obj\Debug\net6.0\ref\Message.dll

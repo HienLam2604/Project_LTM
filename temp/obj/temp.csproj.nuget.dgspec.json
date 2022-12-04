@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\ClientForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\ClientForm.csproj",
+        "projectName": "ClientForm",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\ClientForm.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj",
+        "projectName": "LoginForm",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\ClientForm.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\ClientForm\\ClientForm.csproj"
+              },
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj"
+              },
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\RegisterForm.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\RegisterForm.csproj"
+              },
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj",
+        "projectName": "Message",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\RegisterForm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\RegisterForm.csproj",
+        "projectName": "RegisterForm",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\RegisterForm.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\RegisterForm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Message\\Message.csproj"
+              },
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj",
+        "projectName": "temp",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj": {
+                "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj",
+        "projectName": "Validation",
+        "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\Validation.csproj",
+        "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\Validation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

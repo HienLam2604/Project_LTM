@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LoginForm/1.0.0": {
+        "type": "project",
+        "framework": "Unsupported,Version=v0.0",
+        "compile": {
+          "bin/placeholder/LoginForm.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LoginForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginForm/1.0.0": {
+      "type": "project",
+      "path": "../LoginForm/LoginForm.csproj",
+      "msbuildProject": "../LoginForm/LoginForm.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LoginForm >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MinhHieu\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj",
+      "projectName": "temp",
+      "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\temp.csproj",
+      "packagesPath": "C:\\Users\\MinhHieu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\temp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\MinhHieu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj": {
+              "projectPath": "C:\\Users\\MinhHieu\\Documents\\Zalo Received Files\\Project_LTM\\Project_LTM\\LoginForm\\LoginForm.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project LoginForm is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project LoginForm supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "LoginForm",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
