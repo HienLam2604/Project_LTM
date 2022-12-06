@@ -34,4 +34,9 @@
         public string Phone { set; get; }
         public int Status { set; get; }
     }
+
+    public class File
+    {
+        public string fileName { get; set; }
+    }
 }

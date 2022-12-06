@@ -22,6 +22,7 @@ using Org.BouncyCastle.Tls;
 using System.Diagnostics.Metrics;
 using Microsoft.VisualBasic.ApplicationServices;
 using System.ComponentModel;
+using File = Entity.File;
 
 namespace ClientForm
 {
@@ -38,7 +39,7 @@ namespace ClientForm
         List<string> dsnhom = new List<string>();
         List<string> DSnhomQuanLy = new List<string>();
         List<string> DSTVnhomQuanLy = new List<string>();
-        List<string> fileNames = new List<string>();
+        List<File> fileNames = new List<File>();
         List<FriendChat> listFriend;
         List<string> listRequestFriend;
         string ipaddress;
@@ -460,6 +461,7 @@ namespace ClientForm
 
         private void load()
         {
+            loadFile();
             loadtinnhan();
             loadFriend();
             loadRequestFriend();
@@ -475,6 +477,8 @@ namespace ClientForm
             textBox12.Text = "";
             dataGridView5.Rows.Clear();
             dataGridView7.Rows.Clear();
+            dataGridView8.Rows.Clear();
+
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -727,8 +731,16 @@ namespace ClientForm
                     else
                     {
                         textBox1.Text += tinnhan[i].date + "   " + getAcc(tinnhan[i].from_user).Username + " : " + tinnhan[i].text + Environment.NewLine;
+                        if (tinnhan[i].to_user.Equals(ID_Accout).ToString().Contains("."))
+                        {
+                            fileNames.Add(new File()
+                            {
+                                fileName = tinnhan[i].text
+                            });
+                        }
                     }
                 }
+                dataGridView8.Rows.Clear();
             }
         }
 
@@ -1355,6 +1367,16 @@ namespace ClientForm
 
         }
 
+        private void loadFile()
+        {
+            //use binding source to hold dummy data
+            BindingSource binding = new BindingSource();
+            binding.DataSource = fileNames;
+
+            //bind datagridview to binding source
+            dataGridView8.DataSource = binding;
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
             //UploadFile();
@@ -1364,13 +1386,16 @@ namespace ClientForm
                 {
                     if (dialog.ShowDialog() == DialogResult.OK) {
                         //initialize destination
-                        string InitialDirectory = Environment.CurrentDirectory;
+                        string InitialDirectory = @"D:\File\";//Environment.CurrentDirectory;
                         //Get filename
                         string filename = Path.GetFileName(dialog.FileName);
                         //get filepath
-                        string filepath = InitialDirectory + filename;
+                        string filepath = InitialDirectory + ID_Accout + @"\" + dstinnhan[userforcus] + @"\" + filename;
                         //File.Copy(dialog.FileName, filepath);
-                        fileNames.Add(filename);
+                        fileNames.Add(new File()
+                        {
+                            fileName = filename
+                        });
 
                         connectServer();
                         byte[] data = new byte[1024];
@@ -1404,6 +1429,16 @@ namespace ClientForm
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView8_CellContentClick_1(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void dataGridView8_CellContentClick_2(object sender, DataGridViewCellEventArgs e)
         {
 
         }

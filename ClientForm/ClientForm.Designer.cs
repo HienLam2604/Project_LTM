@@ -119,6 +119,7 @@
             this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridView8 = new System.Windows.Forms.DataGridView();
+            this.FileName = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -1066,11 +1067,19 @@
             // dataGridView8
             // 
             this.dataGridView8.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView8.Location = new System.Drawing.Point(1, 172);
+            this.dataGridView8.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.FileName});
+            this.dataGridView8.Location = new System.Drawing.Point(3, 166);
             this.dataGridView8.Name = "dataGridView8";
             this.dataGridView8.RowTemplate.Height = 25;
-            this.dataGridView8.Size = new System.Drawing.Size(183, 150);
+            this.dataGridView8.Size = new System.Drawing.Size(178, 150);
             this.dataGridView8.TabIndex = 1;
+            this.dataGridView8.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView8_CellContentClick_2);
+            // 
+            // FileName
+            // 
+            this.FileName.HeaderText = "FileName";
+            this.FileName.Name = "FileName";
             // 
             // ClientForm
             // 
@@ -1210,5 +1219,6 @@
         private DataGridViewButtonColumn SendRequest;
         private Button button3;
         private DataGridView dataGridView8;
+        private DataGridViewTextBoxColumn FileName;
     }
 }
